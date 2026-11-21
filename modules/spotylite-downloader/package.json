@@ -1,0 +1,6 @@
+{
+  "name": "spotylite-downloader",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Módulo Expo local para downloads autorizados no Android usando yt-dlp"
+}

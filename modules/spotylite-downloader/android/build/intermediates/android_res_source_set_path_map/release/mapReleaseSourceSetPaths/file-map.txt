@@ -1,0 +1,9 @@
+com.spotylite.downloader.spotylite-downloader-pngs-0 /home/slowz/Documents/repositorios/Spotylite/modules/spotylite-downloader/android/build/generated/res/pngs/release
+com.spotylite.downloader.spotylite-downloader-updated_navigation_xml-1 /home/slowz/Documents/repositorios/Spotylite/modules/spotylite-downloader/android/build/generated/updated_navigation_xml/release
+com.spotylite.downloader.spotylite-downloader-mergeReleaseResources-2 /home/slowz/Documents/repositorios/Spotylite/modules/spotylite-downloader/android/build/intermediates/incremental/release/mergeReleaseResources/merged.dir
+com.spotylite.downloader.spotylite-downloader-mergeReleaseResources-3 /home/slowz/Documents/repositorios/Spotylite/modules/spotylite-downloader/android/build/intermediates/incremental/release/mergeReleaseResources/stripped.dir
+com.spotylite.downloader.spotylite-downloader-release-4 /home/slowz/Documents/repositorios/Spotylite/modules/spotylite-downloader/android/build/intermediates/merged_res/release/mergeReleaseResources
+com.spotylite.downloader.spotylite-downloader-release-5 /home/slowz/Documents/repositorios/Spotylite/modules/spotylite-downloader/android/build/intermediates/packaged_res/release/packageReleaseResources
+com.spotylite.downloader.spotylite-downloader-main-6 /home/slowz/Documents/repositorios/Spotylite/modules/spotylite-downloader/android/src/main/res
+com.spotylite.downloader.spotylite-downloader-release-7 /home/slowz/Documents/repositorios/Spotylite/modules/spotylite-downloader/android/src/release/res
+gradleHome-0 /home/slowz/.gradle

@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "com.spotylite.downloader.spotylite-downloader-release-32:/layout-watch-v20/abc_alert_dialog_button_bar_material.xml",
+        "source": "com.spotylite.downloader.spotylite-downloader-appcompat-1.4.2-0:/layout-watch-v20/abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "com.spotylite.downloader.spotylite-downloader-release-32:/layout-watch-v20/abc_alert_dialog_title_material.xml",
+        "source": "com.spotylite.downloader.spotylite-downloader-appcompat-1.4.2-0:/layout-watch-v20/abc_alert_dialog_title_material.xml"
+    }
+]

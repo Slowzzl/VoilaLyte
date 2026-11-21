@@ -1,0 +1,36 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.spotylite.downloader.spotylite-downloader-release-32:/values-v16/values-v16.xml",
+            "map": [
+                {
+                    "source": "/home/slowz/.gradle/caches/9.4.1/transforms/05b1b7d100a914d18d49b02d1c042f16/transformed/appcompat-1.4.2/res/values-v16/values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "223"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "com.spotylite.downloader.spotylite-downloader-mergeReleaseResources-30:/values-v16/values-v16.xml",
+            "map": [
+                {
+                    "source": "/home/slowz/.gradle/caches/9.4.1/transforms/05b1b7d100a914d18d49b02d1c042f16/transformed/appcompat-1.4.2/res/values-v16/values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "223"
+                    }
+                }
+            ]
+        }
+    ]
+}
